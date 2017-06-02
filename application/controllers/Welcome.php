@@ -20,6 +20,19 @@ class Welcome extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->template_utama->display('utama/home');
+		$config['center'] = '37.4419, -122.1419';
+		$config['zoom'] = 'auto';
+		$this->googlemaps->initialize($config);
+
+		$marker = array();
+		$marker['position'] = '-2.065666, 101.3926979';
+		$this->googlemaps->add_marker($marker);
+		$data['map'] = $this->googlemaps->create_map();
+
+		$this->template_utama->display('utama/home', $data);
+	}
+
+	public function sambutan(){
+		$this->template_utama->display('utama/sambutan');
 	}
 }

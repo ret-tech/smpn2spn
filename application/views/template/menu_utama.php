@@ -1,11 +1,11 @@
 <div class="wrapper row2">
-  <nav id="mainav" class="hoc clear"> 
+  <nav id="mainav" class="hoc clear">
     <!-- ################################################################################################ -->
     <ul class="clear">
-      <li class="active"><a href="index.html">Home</a></li>
+      <li class="active"><a href="<?php echo base_url(); ?>">Home</a></li>
       <li><a class="drop" href="#">Profil</a>
         <ul>
-          <li><a href="pages/gallery.html">Sambutan Kepala Sekolah</a></li>
+          <li><a href="<?php echo base_url('welcome/sambutan'); ?>">Sambutan Kepala Sekolah</a></li>
           <li><a href="pages/full-width.html">Visi Misi</a></li>
           <li><a href="pages/sidebar-left.html">Sejarah Singkat</a></li>
           <li><a href="pages/basic-grid.html">Struktur Organisasi</a></li>

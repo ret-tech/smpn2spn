@@ -1,30 +1,75 @@
-<div class="wrapper bgded" style="background-image:url('images/demo/backgrounds/01.png');">
-  <div id="pageintro" class="hoc clear"> 
-    <!-- ################################################################################################ -->
-    <article>
-      <div class="overlay inspace-30 btmspace-30">
-        <h2 class="heading">Phasellus elementum sem</h2>
-        <p>Eget euismod dui ultricies eget nec ornare enim vivamus volutpat vehicula massa quis ut euismod eget orci ac molestie integer porttitor laoreet vestibulum sed id metus hendrerit euismod.</p>
-      </div>
-      <footer>
-        <ul class="nospace inline pushright">
-          <li><a class="btn" href="#">Vestibulum</a></li>
-          <li><a class="btn inverse" href="#">Aliquam</a></li>
-        </ul>
-      </footer>
-    </article>
-    <!-- ################################################################################################ -->
-  </div>
-</div>
+<?php echo $map['js']; ?>
+
+
+
+
+
+            <div id="slider" class="sl-slider-wrapper">
+
+				<div class="sl-slider">
+
+					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
+						<div class="sl-slide-inner">
+							<div class="bg-img bg-img-1"></div>
+							<h2>A bene placito.</h2>
+							<blockquote><p>You have just dined, and however scrupulously the slaughterhouse is concealed in the graceful distance of miles, there is complicity.</p><cite>Ralph Waldo Emerson</cite></blockquote>
+						</div>
+					</div>
+
+					<div class="sl-slide" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
+						<div class="sl-slide-inner">
+							<div class="bg-img bg-img-2"></div>
+							<h2>Regula aurea.</h2>
+							<blockquote><p>Until he extends the circle of his compassion to all living things, man will not himself find peace.</p><cite>Albert Schweitzer</cite></blockquote>
+						</div>
+					</div>
+
+					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
+						<div class="sl-slide-inner">
+							<div class="bg-img bg-img-3"></div>
+							<h2>Dum spiro, spero.</h2>
+							<blockquote><p>Thousands of people who say they 'love' animals sit down once or twice a day to enjoy the flesh of creatures who have been utterly deprived of everything that could make their lives worth living and who endured the awful suffering and the terror of the abattoirs.</p><cite>Dame Jane Morris Goodall</cite></blockquote>
+						</div>
+					</div>
+
+					<div class="sl-slide" data-orientation="vertical" data-slice1-rotation="-5" data-slice2-rotation="25" data-slice1-scale="2" data-slice2-scale="1">
+						<div class="sl-slide-inner">
+							<div class="bg-img bg-img-4"></div>
+							<h2>Donna nobis pacem.</h2>
+							<blockquote><p>The human body has no more need for cows' milk than it does for dogs' milk, horses' milk, or giraffes' milk.</p><cite>Michael Klaper M.D.</cite></blockquote>
+						</div>
+					</div>
+
+					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-5" data-slice2-rotation="10" data-slice1-scale="2" data-slice2-scale="1">
+						<div class="sl-slide-inner">
+							<div class="bg-img bg-img-5"></div>
+							<h2>Acta Non Verba.</h2>
+							<blockquote><p>I think if you want to eat more meat you should kill it yourself and eat it raw so that you are not blinded by the hypocrisy of having it processed for you.</p><cite>Margi Clarke</cite></blockquote>
+						</div>
+					</div>
+				</div><!-- /sl-slider -->
+
+				<nav id="nav-dots" class="nav-dots">
+					<span class="nav-dot-current"></span>
+					<span></span>
+					<span></span>
+					<span></span>
+					<span></span>
+				</nav>
+
+			</div><!-- /slider-wrapper -->
+
+
+        
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <div class="wrapper row3">
-  <main class="hoc container clear"> 
+  <main class="hoc container clear">
     <!-- main body -->
     <!-- ################################################################################################ -->
     <div class="center btmspace-50">
-      <h2 class="heading">Justo non pulvinar</h2>
+      <h2 class="heading">Sejarah Singkat</h2>
       <p>Elit nullam facilisis est quis justo viverra hendrerit donec euismod fringilla justo a auctor.</p>
     </div>
     <article class="one_third first btmspace-50">
@@ -60,7 +105,7 @@
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/02.png');">
-  <div class="hoc container clear"> 
+  <div class="hoc container clear">
     <!-- ################################################################################################ -->
     <article class="center">
       <h2 class="font-x3 uppercase">Lacus ligula malesuada</h2>
@@ -79,7 +124,7 @@
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <div class="wrapper row3">
-  <section class="hoc container clear"> 
+  <section class="hoc container clear">
     <!-- ################################################################################################ -->
     <div class="center btmspace-50">
       <h2 class="heading">Pretium nec nunc tincidunt</h2>
@@ -128,4 +173,19 @@
     </ul>
     <!-- ################################################################################################ -->
   </section>
+</div>
+<div class="wrapper row4 bgded overlay" style="background-image:url('images/demo/backgrounds/03.png');">
+
+    <!-- ################################################################################################ -->
+    <div id="cta" class="group">
+      <i class="fa fa-map-marker"></i>
+        <p>Find us</p>
+        <p><a href="#">Google Maps</a></p>
+
+
+    </div>
+    <!-- ################################################################################################ -->
+
+
+  <?php echo $map['html']; ?>
 </div>

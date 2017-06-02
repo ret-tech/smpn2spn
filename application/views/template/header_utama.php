@@ -1,10 +1,11 @@
+
 <div class="wrapper row0">
-  <div id="topbar" class="hoc clear"> 
+  <div id="topbar" class="hoc clear">
     <!-- ################################################################################################ -->
     <div class="fl_left">
       <ul class="nospace inline pushright">
-        <li><i class="fa fa-phone"></i> +00 (123) 456 7890</li>
-        <li><i class="fa fa-envelope-o"></i> info@domain.com</li>
+        <li><i class="fa fa-phone"></i> ( 0748 ) 21819</li>
+        <li><i class="fa fa-envelope-o"></i> info@smpn7sungaipenuh.sch.id</li>
       </ul>
     </div>
     <div class="fl_right">
@@ -20,7 +21,7 @@
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <div class="wrapper row1">
-  <header id="header" class="hoc clear"> 
+  <header id="header" class="hoc clear">
     <!-- ################################################################################################ -->
     <div id="logo" class="fl_left">
       <h1><a href="index.html">SMP Negeri 2 Sungai Penuh</a></h1>
