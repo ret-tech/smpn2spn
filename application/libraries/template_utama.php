@@ -5,7 +5,7 @@ class Template_utama{
 	function __construct(){
 		$this->_ci = &get_instance();
 	}
-	
+
 	function display($template, $data = null){
 		$data['content']		= $this->_ci->load->view($template, $data, true);
 		$data['header']			= $this->_ci->load->view('template/header_utama', $data, true);

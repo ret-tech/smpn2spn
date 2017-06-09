@@ -8,9 +8,25 @@ Licence URI: http://www.os-templates.com/template-terms
 -->
 <html>
 <head>
-<title>SMPN 2 Sungai Penuh</title>
+<title>SMPN 7 Sungai Penuh</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+<link href="<?php echo base_url(); ?>assets/template/css/bootstrap.min.css" rel="stylesheet">
+  <link href="<?php echo base_url(); ?>assets/template/css/animate.min.css" rel="stylesheet">
+  <link href="<?php echo base_url(); ?>assets/template/css/font-awesome.min.css" rel="stylesheet">
+  <link href="<?php echo base_url(); ?>assets/template/css/lightbox.css" rel="stylesheet">
+  <link href="<?php echo base_url(); ?>assets/template/css/main.css" rel="stylesheet">
+  <link id="<?php echo base_url(); ?>assets/template/css-preset" href="css/presets/preset1.css" rel="stylesheet">
+  <link href="<?php echo base_url(); ?>assets/template/css/responsive.css" rel="stylesheet">
+
+  <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+  <![endif]-->
+
+  <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
+  <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favico.png">
 
 <link href="<?php echo base_url(); ?>assets/template/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 <!-- ######################################SLIDER########################################################## -->
@@ -23,7 +39,7 @@ Licence URI: http://www.os-templates.com/template-terms
 		</noscript>
 </head>
 <body id="top">
-<div class="container demo-2">
+<div class="containers demo-2">
 <?php echo $header; ?>
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
@@ -48,6 +64,15 @@ Licence URI: http://www.os-templates.com/template-terms
 <!-- ################################################################################################ -->
 <a id="backtotop" href="#top"><i class="fa fa-chevron-up"></i></a>
 <!-- JAVASCRIPTS -->
+<script type="text/javascript" src="<?php echo base_url(); ?>assets/template/js/jquery.js"></script>
+  <script type="text/javascript" src="<?php echo base_url(); ?>assets/template/js/bootstrap.min.js"></script>
+  <script type="text/javascript" src="<?php echo base_url(); ?>assets/template/js/jquery.inview.min.js"></script>
+  <script type="text/javascript" src="<?php echo base_url(); ?>assets/template/js/wow.min.js"></script>
+  <script type="text/javascript" src="<?php echo base_url(); ?>assets/template/js/mousescroll.js"></script>
+  <script type="text/javascript" src="<?php echo base_url(); ?>assets/template/js/smoothscroll.js"></script>
+  <script type="text/javascript" src="<?php echo base_url(); ?>assets/template/js/jquery.countTo.js"></script>
+  <script type="text/javascript" src="<?php echo base_url(); ?>assets/template/js/lightbox.min.js"></script>
+  <script type="text/javascript" src="<?php echo base_url(); ?>assets/template/js/main.js"></script>
 <script src="<?php echo base_url(); ?>assets/template/layout/scripts/jquery.min.js"></script>
 <script src="<?php echo base_url(); ?>assets/template/layout/scripts/jquery.backtotop.js"></script>
 <script src="<?php echo base_url(); ?>assets/template/layout/scripts/jquery.mobilemenu.js"></script>

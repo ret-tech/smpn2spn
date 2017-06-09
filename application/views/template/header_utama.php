@@ -24,7 +24,7 @@
   <header id="header" class="hoc clear">
     <!-- ################################################################################################ -->
     <div id="logo" class="fl_left">
-      <h1><a href="index.html">SMP Negeri 2 Sungai Penuh</a></h1>
+      <h1><a href="<?php echo base_url(); ?>">SMP Negeri 7 Sungai Penuh</a></h1>
     </div>
     <div id="search" class="fl_right">
       <h6 class="title">Sosial Media</h6>

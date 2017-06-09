@@ -11,8 +11,8 @@
 					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-25" data-slice2-rotation="-25" data-slice1-scale="2" data-slice2-scale="2">
 						<div class="sl-slide-inner">
 							<div class="bg-img bg-img-1"></div>
-							<h2>A bene placito.</h2>
-							<blockquote><p>You have just dined, and however scrupulously the slaughterhouse is concealed in the graceful distance of miles, there is complicity.</p><cite>Ralph Waldo Emerson</cite></blockquote>
+							<h2>Selamat Datang</h2>
+							<blockquote><p>di Website Resmi SMPN 7 Sungai Penuh</cite></blockquote>
 						</div>
 					</div>
 
@@ -60,75 +60,125 @@
 			</div><!-- /slider-wrapper -->
 
 
-        
+
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <div class="wrapper row3">
-  <main class="hoc container clear">
-    <!-- main body -->
-    <!-- ################################################################################################ -->
-    <div class="center btmspace-50">
-      <h2 class="heading">Sejarah Singkat</h2>
-      <p>Elit nullam facilisis est quis justo viverra hendrerit donec euismod fringilla justo a auctor.</p>
+  <section id="services">
+    <div class="container">
+      <div class="heading wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="300ms">
+        <div class="row">
+          <div class="text-center col-sm-8 col-sm-offset-2">
+            <h2 class="font-x3 uppercase">TENTANG KAMI</h2>
+            <p>Memberikan informasi dan pelayanan pendidikan dengan sepenuh hati</p>
+          </div>
+        </div>
+      </div>
+      <div class="text-center our-services">
+        <div class="row">
+          <div class="col-sm-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
+            <div class="service-icon">
+              <i class="fa fa-flask"></i>
+            </div>
+            <div class="service-info">
+              <h3>Info dan Berita</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+            </div>
+          </div>
+          <div class="col-sm-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="450ms">
+            <div class="service-icon">
+              <i class="fa fa-umbrella"></i>
+            </div>
+            <div class="service-info">
+              <h3>Kesiswaan</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+            </div>
+          </div>
+          <div class="col-sm-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="550ms">
+            <div class="service-icon">
+              <i class="fa fa-cloud"></i>
+            </div>
+            <div class="service-info">
+              <h3>Guru dan Staff</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+            </div>
+          </div>
+          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="650ms">
+            <div class="service-icon">
+              <i class="fa fa-coffee"></i>
+            </div>
+            <div class="service-info">
+              <h3>e-Learning</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+            </div>
+          </div>
+          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="750ms">
+            <div class="service-icon">
+              <i class="fa fa-bitbucket"></i>
+            </div>
+            <div class="service-info">
+              <h3>Prestasi</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+            </div>
+          </div>
+          <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="850ms">
+            <div class="service-icon">
+              <i class="fa fa-gift"></i>
+            </div>
+            <div class="service-info">
+              <h3>PPDB</h3>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore</p>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
-    <article class="one_third first btmspace-50">
-      <h3 class="font-x1 btmspace-30"><i class="fa fa-2x fa-500px rightspace-10"></i> <a href="#">Aliquam in lacus</a></h3>
-      <p>Bibendum et vestibulum condimentum rutrum arcu sed posuere sem in eu lectus sit amet dolor ultrices suscipit aliquam vestibulum sollicitudin dapibus&hellip;</p>
-    </article>
-    <article class="one_third btmspace-50">
-      <h3 class="font-x1 btmspace-30"><i class="fa fa-2x fa-adjust rightspace-10"></i> <a href="#">Vel velit malesuada</a></h3>
-      <p>Nunc enim sapien elementum ac aliquam in tempus a tortor vivamus at arcu ut tellus fermentum rutrum a eu orci vestibulum ante ipsum primis in faucibus&hellip;</p>
-    </article>
-    <article class="one_third btmspace-50">
-      <h3 class="font-x1 btmspace-30"><i class="fa fa-2x fa-leaf rightspace-10"></i> <a href="#">Gravida nec non</a></h3>
-      <p>Ultrices posuere cubilia curae nam placerat neque eu elit eleifend gravida ut efficitur lacus et ex ullamcorper eget molestie massa lacinia donec euismod&hellip;</p>
-    </article>
-    <article class="one_third first">
-      <h3 class="font-x1 btmspace-30"><i class="fa fa-2x fa-leanpub rightspace-10"></i> <a href="#">Mauris nam mollis</a></h3>
-      <p>Amet nunc feugiat sed volutpat odio mollis duis tellus ante mollis non tellus sit amet facilisis interdum quam morbi imperdiet tincidunt leo ac eleifend&hellip;</p>
-    </article>
-    <article class="one_third">
-      <h3 class="font-x1 btmspace-30"><i class="fa fa-2x fa-legal rightspace-10"></i> <a href="#">Mauris dui sed</a></h3>
-      <p>Elementum mattis vulputate ut euismod vitae nibh nam nulla sapien vehicula nec erat ut sodales tincidunt magna curabitur commodo leo eu felis rhoncus&hellip;</p>
-    </article>
-    <article class="one_third">
-      <h3 class="font-x1 btmspace-30"><i class="fa fa-2x fa-pied-piper-alt rightspace-10"></i> <a href="#">Vestibulum odio</a></h3>
-      <p>Elit nisi tincidunt bibendum lectus condimentum non etiam pulvinar erat et tristique tempor nisi lectus ultricies sapien bibendum interdum sapien&hellip;</p>
-    </article>
-    <!-- ################################################################################################ -->
-    <!-- / main body -->
-    <div class="clear"></div>
-  </main>
+  </section><!--/#services-->
 </div>
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <div class="wrapper bgded overlay" style="background-image:url('images/demo/backgrounds/02.png');">
-  <div class="hoc container clear">
-    <!-- ################################################################################################ -->
-    <article class="center">
-      <h2 class="font-x3 uppercase">Lacus ligula malesuada</h2>
-      <p class="btmspace-50">Ac egestas at justo quisque lobortis ipsum sapien sed lacinia libero</p>
-      <footer>
-        <ul class="nospace inline pushright">
-          <li><a class="btn inverse" href="#">Convallis</a></li>
-          <li><a class="btn" href="#">Vestibulum</a></li>
-        </ul>
-      </footer>
-    </article>
-    <!-- ################################################################################################ -->
-  </div>
+  <section id="features" class="parallax">
+    <div class="container">
+      <div class="row count">
+        <h2 class="font-x3 uppercase">SMPN 7 Sungai Penuh</h2>
+        <p class="btmspace-50">SMPN 7 Sungai Penuh Dalam Angka</p>
+        <div class="col-sm-3 col-xs-6 wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="300ms">
+          <i class="fa fa-user"></i>
+          <h3 class="timer">521</h3>
+          <p>Siswa</p>
+        </div>
+        <div class="col-sm-3 col-xs-6 wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
+          <i class="fa fa-desktop"></i>
+          <h3 class="timer">61</h3>
+          <p>Guru dan Staff</p>
+        </div>
+        <div class="col-sm-3 col-xs-6 wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="700ms">
+          <i class="fa fa-trophy"></i>
+          <h3 class="timer">10</h3>
+          <p>Prestasi</p>
+        </div>
+        <div class="col-sm-3 col-xs-6 wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="900ms">
+          <i class="fa fa-comment-o"></i>
+          <h3>19</h3>
+          <p>Fasilitas</p>
+        </div>
+      </div>
+    </div>
+  </section><!--/#features-->
 </div>
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <div class="wrapper row3">
+
   <section class="hoc container clear">
     <!-- ################################################################################################ -->
     <div class="center btmspace-50">
-      <h2 class="heading">Pretium nec nunc tincidunt</h2>
-      <p>Neque nisl id dictum nisi lacinia vel proin at dolor elit morbi sagittis turpis dolor.</p>
+      <h2 class="font-x3 uppercase">Berita dan Agenda</h2>
+      <p>Portal informasi terbaru mengenai SMPN 7 Sungai Penuh</p>
     </div>
     <ul class="nospace group">
       <li class="one_third first">
@@ -173,19 +223,26 @@
     </ul>
     <!-- ################################################################################################ -->
   </section>
+
 </div>
-<div class="wrapper row4 bgded overlay" style="background-image:url('images/demo/backgrounds/03.png');">
-
-    <!-- ################################################################################################ -->
-    <div id="cta" class="group">
-      <i class="fa fa-map-marker"></i>
-        <p>Find us</p>
-        <p><a href="#">Google Maps</a></p>
-
-
+<div class="wrapper row4" >
+  <footer id="footer" class="hoc clear">
+    <div id="cta" class="clear">
+      <!-- ################################################################################################ -->
+      <div class="one_third first"><i class="icon fa fa-map-marker"></i>
+        <h6 class="nospace font-x1 uppercase"><a href="#">How to find us</a></h6>
+      </div>
+      <div class="one_third"><i class="icon fa fa-phone"></i>
+        <h6 class="nospace font-x1 uppercase">+00 (123) 456 7890</h6>
+      </div>
+      <div class="one_third"><i class="icon fa fa-envelope-o"></i>
+        <h6 class="nospace font-x1 uppercase">info@domain.com</h6>
+      </div>
+      <!-- ################################################################################################ -->
     </div>
-    <!-- ################################################################################################ -->
+    </footer>
+</div>
+<div style="width: 100%">
 
-
-  <?php echo $map['html']; ?>
+ <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJBd2_etCgLS4RZ5Vf5KYJNsY&key=AIzaSyDfiPRLSrsFu4PQygCEjf-FpNJQ4yX1L7k" width="100%" height="350" frameborder="0" style="border:0"></iframe>
 </div>

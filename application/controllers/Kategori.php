@@ -1,7 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Welcome extends CI_Controller {
+class Kategori extends CI_Controller {
 
 	/**
 	 * Index Page for this controller.
@@ -34,5 +34,13 @@ class Welcome extends CI_Controller {
 
 	public function sambutan(){
 		$this->template_utama->display('utama/sambutan');
+	}
+
+	public function visimisi(){
+		$this->template_utama->display('utama/visimisi');
+	}
+
+	public function berita(){
+		$this->template_utama->display('utama/berita');
 	}
 }
