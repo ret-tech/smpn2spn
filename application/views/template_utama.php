@@ -20,6 +20,10 @@ Licence URI: http://www.os-templates.com/template-terms
   <link id="<?php echo base_url(); ?>assets/template/css-preset" href="css/presets/preset1.css" rel="stylesheet">
   <link href="<?php echo base_url(); ?>assets/template/css/responsive.css" rel="stylesheet">
 
+<link href="<?php echo base_url(); ?>assets/template/owl-carousel/owl.carousel.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="<?php echo base_url(); ?>assets/template/css/zerogrid.css">
+
   <!--[if lt IE 9]>
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
@@ -79,6 +83,20 @@ Licence URI: http://www.os-templates.com/template-terms
 <!-- IE9 Placeholder Support -->
 <script src="<?php echo base_url(); ?>assets/template/layout/scripts/jquery.placeholder.min.js"></script>
 <!-- / IE9 Placeholder Support -->
+<script src="<?php echo base_url(); ?>assets/template/owl-carousel/owl.carousel.js"></script>
+    <script>
+    $(document).ready(function() {
+      $("#owl-brand").owlCarousel({
+        autoPlay: 3000,
+        items : 6,
+		itemsDesktop : [1199,4],
+        itemsDesktopSmall : [979,2],
+		navigation: true,
+		navigationText: ['<i class="fa fa-chevron-left fa-5x"></i>', '<i class="fa fa-chevron-right fa-5x"></i>'],
+		pagination: false
+      });
+    });
+    </script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 		<script type="text/javascript" src="<?php echo base_url(); ?>assets/slide/js/jquery.ba-cond.min.js"></script>
 		<script type="text/javascript" src="<?php echo base_url(); ?>assets/slide/js/jquery.slitslider.js"></script>

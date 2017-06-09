@@ -169,6 +169,7 @@
     </div>
   </section><!--/#features-->
 </div>
+
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
 <!-- ################################################################################################ -->
@@ -225,24 +226,14 @@
   </section>
 
 </div>
-<div class="wrapper row4" >
-  <footer id="footer" class="hoc clear">
-    <div id="cta" class="clear">
-      <!-- ################################################################################################ -->
-      <div class="one_third first"><i class="icon fa fa-map-marker"></i>
-        <h6 class="nospace font-x1 uppercase"><a href="#">How to find us</a></h6>
-      </div>
-      <div class="one_third"><i class="icon fa fa-phone"></i>
-        <h6 class="nospace font-x1 uppercase">+00 (123) 456 7890</h6>
-      </div>
-      <div class="one_third"><i class="icon fa fa-envelope-o"></i>
-        <h6 class="nospace font-x1 uppercase">info@domain.com</h6>
-      </div>
-      <!-- ################################################################################################ -->
-    </div>
-    </footer>
-</div>
-<div style="width: 100%">
 
+<div style="width: 100%">
+  <div id="cta" class="clear">
+    <!-- ################################################################################################ -->
+    <div class="text-center"><i class="icon fa fa-map-marker"></i>
+      <h6 class="nospace font-x1 uppercase"><a href="#">Lokasi Kami</a></h6>
+    </div>
+    <!-- ################################################################################################ -->
+  </div>
  <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJBd2_etCgLS4RZ5Vf5KYJNsY&key=AIzaSyDfiPRLSrsFu4PQygCEjf-FpNJQ4yX1L7k" width="100%" height="350" frameborder="0" style="border:0"></iframe>
 </div>

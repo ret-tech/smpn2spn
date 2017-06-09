@@ -3,15 +3,24 @@
     <!-- main body -->
     <!-- ################################################################################################ -->
     <div class="content three_quarter first">
+      <div class="text-center">
+				<h2>Visi</h2>
+			</div>
       <!-- ################################################################################################ -->
-      <h1>&lt;h1&gt; to &lt;h6&gt; - Headline Colour and Size Are All The Same</h1>
-      <img class="imgr borderedbox inspace-5" src="../images/demo/imgr.gif" alt="">
-      <p>Perkembangan teknologi informasi saat ini membawa pengaruh besar bagi perkembangan dunia. Berita yang terjadi di belahan bumi ini dapat dengan mudah di akses dari mana saja. Sebagai lembaga pendidikan, SMA Negeri 1 Harapan tanggap dengan perkembangan teknologi tersebut. Dengan dukungan SDM yang di miliki sekolah ini siap untuk berkompetisi dengan sekolah lain dalam pelayanan informasi kepada publik.</p>
-      <br>
+      <blockquote><p>Menjadikan Sekolah yang unggul dalam prestasi, berbudaya, berakhlak mulya,  kreatif, peduli terhadap lingkungan berdasarkan imtak dan inteq.</p></blockquote>
 
-        <p>Teknologi Informasi Web khususnya, menjadi sarana bagi SMA Negeri 1 Harapan untuk memberi pelayanan informasi secara cepat, jelas, dan akuntable. Dari layanan ini pula, sekolah siap menerima saran, tanggapan konstruktif dari semua pihak yang akhirnya sekolah akan mampu menjawab keinginan yang di butuhkan masyarakat yaitu; membekali peserta didik yang kompeten dan berkarakter sesuai dengan visi dan misi  </p>
-      
-      <!-- ################################################################################################ -->
+      <div class="text-center">
+				<h2>Misi</h2>
+			</div>
+      <ul>
+        <li>Menumbuh kembangkan penghayatan dan pengamatan terhadap ajaran agama, norma dan rasa kekeluargaan sehingga membangun siswa yang competent dan akhlak mulya</p></blockquote>
+        <li>Mewujudkan pendidikan yang menghasilkan lulusan yang berakhlak, kreatif,   berprestasi, berwawasan IPTEK.</li>
+        <li>>Menciptakan lingkungan sekolah yang asri, bersih, indah, rindang, dan nyaman.</li>
+        <li>Mewujudkan prestasi siswa dalam bidang akademik dan non akademik.</li>
+        <li>Mewujudkan budaya disiplin, jujur, santun, tanggung jawab, tepat waktu bagi seluruh warga sekolah.</li>
+        <li>Melengkapi sarana dan prasarana yang mendukung kegiatan  pembelajaran.</li>
+        <li>Melengkapi sarana kesenian dan olah raga guna meningkatkan prestasi dalam bidang kesenian dan olah raga.</li>
+      <ul>
     </div>
     <!-- ################################################################################################ -->
     <!-- ################################################################################################ -->

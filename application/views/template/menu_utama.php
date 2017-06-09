@@ -14,7 +14,7 @@
 
       <li><a class="drop" href="#">Akademik</a>
         <ul>
-          <li><a href="pages/gallery.html">Guru</a></li>
+          <li><a href="<?php echo base_url('kategori/guru'); ?>">Guru</a></li>
           <li><a href="pages/full-width.html">Siswa</a></li>
           <li><a href="pages/full-width.html">Fasilitas</a></li>
         </ul>
