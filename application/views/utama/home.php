@@ -184,7 +184,7 @@
     <ul class="nospace group">
       <li class="one_third first">
         <article class="element">
-          <figure><img src="images/demo/320x210.png" alt="">
+          <figure><img src="<?php echo base_url(); ?>assets/template/images/portfolio-1.jpg" alt="">
             <figcaption><a href="#"><i class="fa fa-eye"></i></a></figcaption>
           </figure>
           <div class="excerpt">
@@ -197,7 +197,7 @@
       </li>
       <li class="one_third">
         <article class="element">
-          <figure><img src="images/demo/320x210.png" alt="">
+          <figure><img src="<?php echo base_url(); ?>assets/template/images/portfolio-1.jpg" alt="">
             <figcaption><a href="#"><i class="fa fa-eye"></i></a></figcaption>
           </figure>
           <div class="excerpt">
@@ -210,7 +210,7 @@
       </li>
       <li class="one_third">
         <article class="element">
-          <figure><img src="images/demo/320x210.png" alt="">
+          <figure><img src="<?php echo base_url(); ?>assets/template/images/portfolio-1.jpg" alt="">
             <figcaption><a href="#"><i class="fa fa-eye"></i></a></figcaption>
           </figure>
           <div class="excerpt">

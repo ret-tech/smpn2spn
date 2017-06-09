@@ -27,7 +27,6 @@
       <h1><a href="<?php echo base_url(); ?>">SMP Negeri 7 Sungai Penuh</a></h1>
     </div>
     <div id="search" class="fl_right">
-      <h6 class="title">Sosial Media</h6>
       <ul class="faico clear">
         <li><a class="faicon-facebook" href="#"><i class="fa fa-facebook"></i></a></li>
         <li><a class="faicon-twitter" href="#"><i class="fa fa-twitter"></i></a></li>
