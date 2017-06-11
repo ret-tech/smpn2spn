@@ -18,33 +18,34 @@
 
 					<div class="sl-slide" data-orientation="vertical" data-slice1-rotation="10" data-slice2-rotation="-15" data-slice1-scale="1.5" data-slice2-scale="1.5">
 						<div class="sl-slide-inner">
+						<h2>_</h2>
 							<div class="bg-img bg-img-2"></div>
-							<h2>Regula aurea.</h2>
-							<blockquote><p>Until he extends the circle of his compassion to all living things, man will not himself find peace.</p><cite>Albert Schweitzer</cite></blockquote>
+							<blockquote><p>Seorang Guru menggandeng tangan, membuka pikiran, menyentuh hati, dan membentuk masa depan. Seorang Guru berpengaruh selamanya. Dia tidak pernah tahu kapan pengaruhnya berakhir.</p><cite>Henry Adam</cite></blockquote>
 						</div>
 					</div>
 
 					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="3" data-slice2-rotation="3" data-slice1-scale="2" data-slice2-scale="1">
 						<div class="sl-slide-inner">
 							<div class="bg-img bg-img-3"></div>
-							<h2>Dum spiro, spero.</h2>
-							<blockquote><p>Thousands of people who say they 'love' animals sit down once or twice a day to enjoy the flesh of creatures who have been utterly deprived of everything that could make their lives worth living and who endured the awful suffering and the terror of the abattoirs.</p><cite>Dame Jane Morris Goodall</cite></blockquote>
+							<h2>_</h2>
+							<blockquote><p>Tujuan pendidikan adalah mempersiapkan generasi muda
+Untuk mendidik diri mereka sendiri seumur hidup mereka.</p><cite>Robert Maynard Hutchins</cite></blockquote>
 						</div>
 					</div>
 
 					<div class="sl-slide" data-orientation="vertical" data-slice1-rotation="-5" data-slice2-rotation="25" data-slice1-scale="2" data-slice2-scale="1">
 						<div class="sl-slide-inner">
 							<div class="bg-img bg-img-4"></div>
-							<h2>Donna nobis pacem.</h2>
-							<blockquote><p>The human body has no more need for cows' milk than it does for dogs' milk, horses' milk, or giraffes' milk.</p><cite>Michael Klaper M.D.</cite></blockquote>
+							<h2>_</h2>
+							<blockquote><p>Pendidikan, adalah ujung tombak peradaban; juri kunci kesejahteraan.</p><cite>Lenang Manggala</cite></blockquote>
 						</div>
 					</div>
 
 					<div class="sl-slide" data-orientation="horizontal" data-slice1-rotation="-5" data-slice2-rotation="10" data-slice1-scale="2" data-slice2-scale="1">
 						<div class="sl-slide-inner">
 							<div class="bg-img bg-img-5"></div>
-							<h2>Acta Non Verba.</h2>
-							<blockquote><p>I think if you want to eat more meat you should kill it yourself and eat it raw so that you are not blinded by the hypocrisy of having it processed for you.</p><cite>Margi Clarke</cite></blockquote>
+							<h2>_</h2>
+							<blockquote><p>Teknologi hanya sebuah alat. Dalam hal membuat siswa bekerja sama dan menjadikan mereka termotivasi, gurulah yang paling utama.</p><cite>Bill Gates</cite></blockquote>
 						</div>
 					</div>
 				</div><!-- /sl-slider -->
@@ -71,6 +72,7 @@
         <div class="row">
           <div class="text-center col-sm-8 col-sm-offset-2">
             <h2 class="font-x3 uppercase">TENTANG KAMI</h2>
+			<hr class="line">
             <p>Memberikan informasi dan pelayanan pendidikan dengan sepenuh hati</p>
           </div>
         </div>
@@ -79,7 +81,7 @@
         <div class="row">
           <div class="col-sm-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="300ms">
             <div class="service-icon">
-              <i class="fa fa-flask"></i>
+              <i class="fa fa-newspaper-o"></i>
             </div>
             <div class="service-info">
               <h3>Info dan Berita</h3>
@@ -88,7 +90,7 @@
           </div>
           <div class="col-sm-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="450ms">
             <div class="service-icon">
-              <i class="fa fa-umbrella"></i>
+              <i class="fa fa-user"></i>
             </div>
             <div class="service-info">
               <h3>Kesiswaan</h3>
@@ -97,7 +99,7 @@
           </div>
           <div class="col-sm-4 wow fadeInDown" data-wow-duration="1000ms" data-wow-delay="550ms">
             <div class="service-icon">
-              <i class="fa fa-cloud"></i>
+              <i class="fa fa-group"></i>
             </div>
             <div class="service-info">
               <h3>Guru dan Staff</h3>
@@ -106,7 +108,7 @@
           </div>
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="650ms">
             <div class="service-icon">
-              <i class="fa fa-coffee"></i>
+              <i class="fa fa-graduation-cap"></i>
             </div>
             <div class="service-info">
               <h3>e-Learning</h3>
@@ -115,7 +117,7 @@
           </div>
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="750ms">
             <div class="service-icon">
-              <i class="fa fa-bitbucket"></i>
+              <i class="fa fa-trophy"></i>
             </div>
             <div class="service-info">
               <h3>Prestasi</h3>
@@ -124,7 +126,7 @@
           </div>
           <div class="col-sm-4 wow fadeInUp" data-wow-duration="1000ms" data-wow-delay="850ms">
             <div class="service-icon">
-              <i class="fa fa-gift"></i>
+              <i class="fa fa-pencil-square"></i>
             </div>
             <div class="service-info">
               <h3>PPDB</h3>
@@ -144,6 +146,7 @@
     <div class="container">
       <div class="row count">
         <h2 class="font-x3 uppercase">SMPN 7 Sungai Penuh</h2>
+		<hr class="line">
         <p class="btmspace-50">SMPN 7 Sungai Penuh Dalam Angka</p>
         <div class="col-sm-3 col-xs-6 wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="300ms">
           <i class="fa fa-user"></i>
@@ -151,7 +154,7 @@
           <p>Siswa</p>
         </div>
         <div class="col-sm-3 col-xs-6 wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="500ms">
-          <i class="fa fa-desktop"></i>
+          <i class="fa fa-group"></i>
           <h3 class="timer">61</h3>
           <p>Guru dan Staff</p>
         </div>
@@ -161,7 +164,7 @@
           <p>Prestasi</p>
         </div>
         <div class="col-sm-3 col-xs-6 wow fadeInLeft" data-wow-duration="1000ms" data-wow-delay="900ms">
-          <i class="fa fa-comment-o"></i>
+          <i class="fa fa-building-o"></i>
           <h3>19</h3>
           <p>Fasilitas</p>
         </div>
@@ -175,58 +178,91 @@
 <!-- ################################################################################################ -->
 <div class="wrapper row3">
 
-  <section class="hoc container clear">
-    <!-- ################################################################################################ -->
-    <div class="center btmspace-50">
-      <h2 class="font-x3 uppercase">Berita dan Agenda</h2>
-      <p>Portal informasi terbaru mengenai SMPN 7 Sungai Penuh</p>
-    </div>
-    <ul class="nospace group">
-      <li class="one_third first">
-        <article class="element">
-          <figure><img src="<?php echo base_url(); ?>assets/template/images/portfolio-1.jpg" alt="">
-            <figcaption><a href="#"><i class="fa fa-eye"></i></a></figcaption>
-          </figure>
-          <div class="excerpt">
-            <h6 class="heading">Congue dolor venenatis</h6>
-            <time datetime="2045-04-05">5<sup>th</sup> April 2045</time>
-            <p>Id donec feugiat placerat enim facilisis maximus leo pellentesque vitae&hellip;</p>
-            <footer><a href="#">Read More &raquo;</a></footer>
-          </div>
-        </article>
-      </li>
-      <li class="one_third">
-        <article class="element">
-          <figure><img src="<?php echo base_url(); ?>assets/template/images/portfolio-1.jpg" alt="">
-            <figcaption><a href="#"><i class="fa fa-eye"></i></a></figcaption>
-          </figure>
-          <div class="excerpt">
-            <h6 class="heading">Tincidunt lectus ex</h6>
-            <time datetime="2045-04-05">5<sup>th</sup> April 2045</time>
-            <p>Vel sagittis dui gravida sit amet morbi porttitor sed neque a porta&hellip;</p>
-            <footer><a href="#">Read More &raquo;</a></footer>
-          </div>
-        </article>
-      </li>
-      <li class="one_third">
-        <article class="element">
-          <figure><img src="<?php echo base_url(); ?>assets/template/images/portfolio-1.jpg" alt="">
-            <figcaption><a href="#"><i class="fa fa-eye"></i></a></figcaption>
-          </figure>
-          <div class="excerpt">
-            <h6 class="heading">Convallis venenatis</h6>
-            <time datetime="2045-04-05">5<sup>th</sup> April 2045</time>
-            <p>Ut pellentesque lacus vel dapibus fermentum odio commodo&hellip;</p>
-            <footer><a href="#">Read More &raquo;</a></footer>
-          </div>
-        </article>
-      </li>
-    </ul>
-    <!-- ################################################################################################ -->
-  </section>
+  <section class="content-box boxstyle-2 box-4">
+					<div class="zerogrid">
+						<div class="row wrap-box"><!--Start Box-->
+							<div class="header">
+								<div class="wrapper">
+								<h2 class="text-center font-x3 uppercase">Agenda & Pengumuman</h2>
+								<hr class="line">
+									<div class="intro">Explore all the</div>
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-1-3">
+									<div class="wrap-col">
+										<div class="box-item">
+											<div class="zoom-container">
+												<img src="images/1.jpg" />
+											</div>
+											<div class="box-item-content">
+												<h4>LOREM IPSUM DOLOR</h4>
+												<p>His primis omittam intellegat cu, voluptua appetere mea ad, eu harum oporteat vix. Et vel quod legimus, graeci electram ocurrere.</p>
+												<a href="single.html">Read More</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-1-3">
+									<div class="wrap-col">
+										<div class="box-item">
+											<div class="zoom-container">
+												<img src="images/2.jpg" />
+											</div>
+											<div class="box-item-content">
+												<h4>LOREM IPSUM DOLOR</h4>
+												<p>His primis omittam intellegat cu, voluptua appetere mea ad, eu harum oporteat vix. Et vel quod legimus, graeci electram ocurrere.</p>
+												<a href="single.html">Read More</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-1-3">
+									<div class="wrap-col">
+										<div class="box-item">
+											<div class="zoom-container">
+												<img src="images/3.jpg" />
+											</div>
+											<div class="box-item-content">
+												<h4>LOREM IPSUM DOLOR</h4>
+												<p>His primis omittam intellegat cu, voluptua appetere mea ad, eu harum oporteat vix. Et vel quod legimus, graeci electram ocurrere.</p>
+												<a href="single.html">Read More</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</section>
 
 </div>
-
+<footer>
+<div class="top-footer">
+				<div id="owl-brand" class="owl-carousel">
+					<div class="item">
+						<a href="single.html"><img src="<?php echo base_url(); ?>/assets/images/15.jpg" /></a>
+					</div>
+					<div class="item">
+						<a href="single.html"><img src="<?php echo base_url(); ?>/assets/images/16.jpg" /></a>
+					</div>
+					<div class="item">
+						<a href="single.html"><img src="<?php echo base_url(); ?>/assets/images/17.jpg" /></a>
+					</div>
+					<div class="item">
+						<a href="single.html"><img src="<?php echo base_url(); ?>/assets/images/18.jpg" /></a>
+					</div>
+					<div class="item">
+						<a href="single.html"><img src="<?php echo base_url(); ?>/assets/images/19.jpg" /></a>
+					</div>
+					<div class="item">
+						<a href="single.html"><img src="<?php echo base_url(); ?>/assets/images/20.jpg" /></a>
+					</div>
+					<div class="item">
+						<a href="single.html"><img src="<?php echo base_url(); ?>/assets/images/21.jpg" /></a>
+					</div>
+				</div>
+			</div>
 <div style="width: 100%">
   <div id="cta" class="clear">
     <!-- ################################################################################################ -->
@@ -237,3 +273,4 @@
   </div>
  <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJBd2_etCgLS4RZ5Vf5KYJNsY&key=AIzaSyDfiPRLSrsFu4PQygCEjf-FpNJQ4yX1L7k" width="100%" height="350" frameborder="0" style="border:0"></iframe>
 </div>
+</footer>

@@ -24,7 +24,8 @@
   <header id="header" class="hoc clear">
     <!-- ################################################################################################ -->
     <div id="logo" class="fl_left">
-      <h1><a href="<?php echo base_url(); ?>">SMP Negeri 7 Sungai Penuh</a></h1>
+
+      <h1><img src="<?php echo base_url(); ?>assets/images/favico.png" alt=""><a href="<?php echo base_url(); ?>"> SMP Negeri 7 Sungai Penuh</a></h1>
     </div>
     <div id="search" class="fl_right">
       <ul class="faico clear">

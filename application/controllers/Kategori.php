@@ -47,4 +47,8 @@ class Kategori extends CI_Controller {
 	public function guru(){
 		$this->template_utama->display('utama/guru');
 	}
+
+	public function galeri(){
+		$this->template_utama->display('utama/galeri');
+	}
 }
