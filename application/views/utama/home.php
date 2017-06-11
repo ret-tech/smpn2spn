@@ -241,28 +241,29 @@ Untuk mendidik diri mereka sendiri seumur hidup mereka.</p><cite>Robert Maynard 
 <div class="top-footer">
 				<div id="owl-brand" class="owl-carousel">
 					<div class="item">
-						<a href="single.html"><img src="<?php echo base_url(); ?>/assets/images/15.jpg" /></a>
+						<a href="http://m-edukasi.kemdikbud.go.id/medukasi/"><img src="<?php echo base_url(); ?>assets/images/medukasi.png" / alt="m-Edukasi"></a>
 					</div>
 					<div class="item">
-						<a href="single.html"><img src="<?php echo base_url(); ?>/assets/images/16.jpg" /></a>
+						<a href="http://jardiknas.kemdikbud.go.id/"><img src="<?php echo base_url(); ?>assets/images/jardiknas.png" alt="Jardiknas"/></a>
 					</div>
 					<div class="item">
-						<a href="single.html"><img src="<?php echo base_url(); ?>/assets/images/17.jpg" /></a>
+						<a href="http://nisn.data.kemdikbud.go.id"><img src="<?php echo base_url(); ?>assets/images/nisn.png" alt="Nomor Induk Siswa Nasional" /></a>
 					</div>
 					<div class="item">
-						<a href="single.html"><img src="<?php echo base_url(); ?>/assets/images/18.jpg" /></a>
+						<a href="single.html"><img src="images/18.jpg" /></a>
 					</div>
 					<div class="item">
-						<a href="single.html"><img src="<?php echo base_url(); ?>/assets/images/19.jpg" /></a>
+						<a href="single.html"><img src="images/19.jpg" /></a>
 					</div>
 					<div class="item">
-						<a href="single.html"><img src="<?php echo base_url(); ?>/assets/images/20.jpg" /></a>
+						<a href="single.html"><img src="images/20.jpg" /></a>
 					</div>
 					<div class="item">
-						<a href="single.html"><img src="<?php echo base_url(); ?>/assets/images/21.jpg" /></a>
+						<a href="single.html"><img src="images/21.jpg" /></a>
 					</div>
 				</div>
 			</div>
+			</footer>
 <div style="width: 100%">
   <div id="cta" class="clear">
     <!-- ################################################################################################ -->
@@ -273,4 +274,3 @@ Untuk mendidik diri mereka sendiri seumur hidup mereka.</p><cite>Robert Maynard 
   </div>
  <iframe src="https://www.google.com/maps/embed/v1/place?q=place_id:ChIJBd2_etCgLS4RZ5Vf5KYJNsY&key=AIzaSyDfiPRLSrsFu4PQygCEjf-FpNJQ4yX1L7k" width="100%" height="350" frameborder="0" style="border:0"></iframe>
 </div>
-</footer>

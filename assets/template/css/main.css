@@ -981,6 +981,13 @@ ul.address {
   background-color: #ff6b00;
 }
 
+footer{background: #161616;font-size: 14px;}
+footer .top-footer{padding:40px 0; background-color: #fff;}
+footer .wrap-footer{padding: 70px 60px;}
+footer .wrap-footer ul li {margin-bottom: 5px;padding: 10px 0 15px;}
+footer .logo img{max-width: 170px;margin-top: 30px;}
+
+
 /* ---MainContent-Article--- */
 #main-content{margin: 40px 0;}
 #main-content .wrap-content{padding: 0 30px 20px;border-right: 1px solid #ddd;}
