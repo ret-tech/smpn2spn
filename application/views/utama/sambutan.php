@@ -13,6 +13,7 @@
       <!-- ################################################################################################ -->
       <h1></h1>
       <img class="imgr borderedbox inspace-5" height="125" width="125" src="<?php echo base_url(); ?>assets/images/kepsek.jpg" alt="">
+      <p>Assalamu'alaikum Wr. Wb.</p>
       <p>Puji syukur senantiasa kita panjatkan kepada Tuhan Yang Maha Esa yang tiada putus-putusnya melimpahkan rahmat dan karuniaNya kepada kita semua.</p>
       <p>Para pengunjung situs yang berbahagia, kami ucapkan selamat datang di situs SMPN 7 Sungai Penuh ini. Kami sadar bahwa dalam rangka memajukan pendidikan di era
         Teknologi Informasi yang begitu pesat, sangat diperlukan berbagai sarana prasarana yang kondusif, kebutuhan berbagai informasi siswa, guru, orang tua maupun masyarakat,
@@ -21,12 +22,12 @@
         ilmu pengetahuan dan informasi seputar SMPN 7 Sungai Penuh.</p
       <br><br>
 
-        <p><b><u>Drs. asdasdasdasda</u></b><br>
+        <p><b><u>HERRY SENSUAR, S.Pd</u></b><br>
         Kepala Sekolah SMPN 7 Sungai Penuh</p>
 
       <!-- ################################################################################################ -->
             <br>
-						
+
 					</div>
 				</div>
         <div class="sidebar one_quarter">

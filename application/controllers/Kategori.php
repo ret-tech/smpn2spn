@@ -51,4 +51,8 @@ class Kategori extends CI_Controller {
 	public function galeri(){
 		$this->template_utama->display('utama/galeri');
 	}
+
+	public function profil(){
+		$this->template_utama->display('utama/profil');
+	}
 }

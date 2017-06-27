@@ -32,6 +32,11 @@ Licence URI: http://www.os-templates.com/template-terms
   <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700' rel='stylesheet' type='text/css'>
   <link rel="shortcut icon" href="<?php echo base_url(); ?>assets/images/favico.png">
 
+  <link href=".<?php echo base_url(); ?>assets/template/datatables-plugins/dataTables.bootstrap.css" rel="stylesheet">
+
+    <!-- DataTables Responsive CSS -->
+    <link href="<?php echo base_url(); ?>assets/template/datatables-responsive/dataTables.responsive.css" rel="stylesheet">
+
 <link href="<?php echo base_url(); ?>assets/template/layout/styles/layout.css" rel="stylesheet" type="text/css" media="all">
 <!-- ######################################SLIDER########################################################## -->
 <link rel="stylesheet" type="text/css" href="<?php echo base_url(); ?>assets/slide/css/demo.css" />
@@ -83,6 +88,19 @@ Licence URI: http://www.os-templates.com/template-terms
 <!-- IE9 Placeholder Support -->
 <script src="<?php echo base_url(); ?>assets/template/layout/scripts/jquery.placeholder.min.js"></script>
 <!-- / IE9 Placeholder Support -->
+<!-- DataTables JavaScript -->
+    <script src="<?php echo base_url(); ?>assets/template/datatables/js/jquery.dataTables.min.js"></script>
+    <script src="<?php echo base_url(); ?>assets/template/datatables-plugins/dataTables.bootstrap.min.js"></script>
+    <script src="<?php echo base_url(); ?>assets/template/datatables-responsive/dataTables.responsive.js"></script>
+
+    <!-- Page-Level Demo Scripts - Tables - Use for reference -->
+    <script>
+    $(document).ready(function() {
+        $('#dataTables-example').DataTable({
+            responsive: true
+        });
+    });
+    </script>
 <script src="<?php echo base_url(); ?>assets/template/owl-carousel/owl.carousel.js"></script>
     <script>
     $(document).ready(function() {

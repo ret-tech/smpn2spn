@@ -183,9 +183,9 @@ Untuk mendidik diri mereka sendiri seumur hidup mereka.</p><cite>Robert Maynard 
 						<div class="row wrap-box"><!--Start Box-->
 							<div class="header">
 								<div class="wrapper">
-								<h2 class="text-center font-x3 uppercase">Agenda & Pengumuman</h2>
+								<h2 class="text-center font-x3 uppercase">Berita & Pengumuman</h2>
 								<hr class="line">
-									<div class="intro">Explore all the</div>
+									<div class="text-center intro">Semua Informasi Mengenai dunia pendidikan dan SMP Negeri 7</div>
 								</div>
 							</div>
 							<div class="row">
@@ -193,11 +193,25 @@ Untuk mendidik diri mereka sendiri seumur hidup mereka.</p><cite>Robert Maynard 
 									<div class="wrap-col">
 										<div class="box-item">
 											<div class="zoom-container">
-												<img src="images/1.jpg" />
+												<img src="<?php echo base_url(); ?>assets/images/siswa.jpg" />
 											</div>
 											<div class="box-item-content">
-												<h4>LOREM IPSUM DOLOR</h4>
-												<p>His primis omittam intellegat cu, voluptua appetere mea ad, eu harum oporteat vix. Et vel quod legimus, graeci electram ocurrere.</p>
+												<h4>Sumber Belajar dan Keragaman Indonesia</h4>
+												<p>Kementerian Pendidikan dan Kebudayaan (Kemendikbud) mengeluarkan kebijakan terkait hari sekolah untuk semakin meningkatkan karakter peserta didik, khususnya jenjang SD hingga SMA/SMK.</p>
+												<a href="single.html">Selengkapnya</a>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class="col-1-3">
+									<div class="wrap-col">
+										<div class="box-item">
+											<div class="zoom-container">
+												<img src="<?php echo base_url(); ?>assets/images/siswa.jpg" />
+											</div>
+											<div class="box-item-content">
+												<h4>Penerapan Lima Hari Sekolah Dilakukan Bertahap</h4>
+												<p>Kementerian Pendidikan dan Kebudayaan (Kemendikbud) memastikan kebijakan lima hari sekolah akan mulai diterapkan pada tahun pelajaran baru 2017/2018.</p>
 												<a href="single.html">Read More</a>
 											</div>
 										</div>
@@ -207,25 +221,11 @@ Untuk mendidik diri mereka sendiri seumur hidup mereka.</p><cite>Robert Maynard 
 									<div class="wrap-col">
 										<div class="box-item">
 											<div class="zoom-container">
-												<img src="images/2.jpg" />
+												<img src="<?php echo base_url(); ?>assets/images/siswa.jpg" />
 											</div>
 											<div class="box-item-content">
-												<h4>LOREM IPSUM DOLOR</h4>
-												<p>His primis omittam intellegat cu, voluptua appetere mea ad, eu harum oporteat vix. Et vel quod legimus, graeci electram ocurrere.</p>
-												<a href="single.html">Read More</a>
-											</div>
-										</div>
-									</div>
-								</div>
-								<div class="col-1-3">
-									<div class="wrap-col">
-										<div class="box-item">
-											<div class="zoom-container">
-												<img src="images/3.jpg" />
-											</div>
-											<div class="box-item-content">
-												<h4>LOREM IPSUM DOLOR</h4>
-												<p>His primis omittam intellegat cu, voluptua appetere mea ad, eu harum oporteat vix. Et vel quod legimus, graeci electram ocurrere.</p>
+												<h4>Penerimaan Peserta Didik Baru (PPDB) Tahun 2017 Terapkan Sistem Zonasi</h4>
+												<p>Kementerian Pendidikan dan Kebudayaan (Kemendikbud) mengeluarkan Permendikbud Nomor 17 Tahun 2017 tentang Penerimaan Peserta Didik Baru (PPDB) pada Taman Kanak-kanak, Sekolah Dasar, Sekolah Menengah Pertama,</p>
 												<a href="single.html">Read More</a>
 											</div>
 										</div>
